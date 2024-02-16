@@ -16,10 +16,6 @@ I'm a passionate individual interested in Machine Learning and App Development.
 - Databases: MySQL, SQLite
 - Version Control: Git
 
-## GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tahseenullahbkuc&show_icons=true)
-
 ## Let's Connect
 
 - LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/tahseen-ullah-346999258/?originalSubdomain=pk])
